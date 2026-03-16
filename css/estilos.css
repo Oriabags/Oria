@@ -49,11 +49,11 @@
     font-size: 190px;
     color: #786153;
     margin: 10px 0;
-    margin-bottom: 0px;
+    margin-bottom: 14px;
     font-weight: normal;
      -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  line-height: 0.65;
+  line-height: 0.37;
   }
   
   header h2 {
@@ -66,11 +66,16 @@ margin-bottom: 30px;
 }
 
 h2{
-  font-size: 19px; 
+  font-size: 15px; 
   font-family: Montserrat, sans-serif;
   font-weight: 300;
   font-style: normal;
 }
+
+p{
+  font-size: 14px;
+}
+
 .gamuza2 {
   position: relative;
   width: 100%;
@@ -230,31 +235,7 @@ header h2 {
     margin: 10px 0;
   }
 
-  @media (max-width: 768px) {
 
-  header h1 {
-    font-size: 40px;
-  }
-
-  header h2 {
-    font-size: 20px;
-  }
-
-  .productos {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 20px;
-  }
-
-  .producto img {
-    width: 100%;
-  }
-
-}
-img {
-  max-width: 100%;
-  height: auto;
-}
 
 }
   
