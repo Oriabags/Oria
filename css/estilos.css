@@ -59,7 +59,7 @@
   header h2 {
     margin-top: -65px;
 margin-bottom: 30px;
-  font-size: 77px; 
+  font-size: 70px; 
   font-family: "snell roundhand";
   font-weight: 300;
   font-style: normal;
@@ -94,7 +94,7 @@ p{
   left: 50%;
   transform: translate(-50%, -50%);
   margin: 0;
-  color: #f0efed;
+  color: #403823;
 font-size: 30px;
 font-weight: 500;
 }
